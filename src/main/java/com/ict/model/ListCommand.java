@@ -1,4 +1,4 @@
-package com.ict.medel;
+package com.ict.model;
 
 import java.util.List;
 

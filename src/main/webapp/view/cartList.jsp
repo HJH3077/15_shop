@@ -56,6 +56,5 @@ table, th, td {
 			<td></td>
 		</tr>
 	</table>
-
 </body>
 </html>

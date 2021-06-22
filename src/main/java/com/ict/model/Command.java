@@ -1,4 +1,4 @@
-package com.ict.medel;
+package com.ict.model;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
